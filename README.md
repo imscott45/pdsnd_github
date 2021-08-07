@@ -5,7 +5,7 @@ August 7th, 2021
 Version Control with Git and Github Final Project
 
 ### Description
-Describe what your project This project is to show I have learned how to control code using Git, and then interact remotely with Github.
+This project is to show I have learned how to control code using Git, and then interact remotely with Github.
 
 ### Files used
 **bikeshare.py**
