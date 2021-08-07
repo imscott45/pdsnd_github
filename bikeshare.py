@@ -301,6 +301,3 @@ def main():
 
 if __name__ == "__main__":
 	main()
-
-def new_method():
-    #this code does something new
